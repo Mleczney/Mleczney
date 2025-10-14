@@ -8,7 +8,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 ShitHub Staty
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mleczney&show_icons=true&theme=tokyonight" alt="Mleczney's Stats" />
   <br>
