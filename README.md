@@ -4,7 +4,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://tenor.com/mED2Kc7duAF.gif" width="480" alt="Gaming Banner" />
+  <div class="tenor-gif-embed" data-postid="10484229064572030483" data-share-method="host" data-aspect-ratio="1.77857" data-width="100%"><a href="https://tenor.com/view/mr-incredible-gassy-gassy-incredible-mr-gassy-gif-10484229064572030483">Mr Incredible Gassy Gassy Incredible GIF</a>from <a href="https://tenor.com/search/mr+incredible+gassy-gifs">Mr Incredible Gassy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 ---
