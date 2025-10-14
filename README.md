@@ -4,7 +4,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="480" alt="Gaming Banner" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif](https://tenor.com/mED2Kc7duAF.gif" width="480" alt="Gaming Banner" />
 </p>
 
 ---
