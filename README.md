@@ -3,5 +3,5 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/kX92yVGkThMAAAAC/mr-incredible-gassy-gassy-incredible.gif" width="480" alt="Mr Incredible Gassy Gaming" />
+  <img src="vinqtyi9cbvf1.png" width="1000" alt="Mr Incredible Gassy Gaming" />
 </p>
