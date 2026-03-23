@@ -1,8 +1,8 @@
-# 👋 Ahoj, já jsem Mleczney!
+# Vítejte na mojem profilu
 
 ### 🎮 Game Developer • Full-stack Engineer • 3D Artist
 
-Baví mě propojovat svět čistého kódu s vizuálním uměním a interaktivitou. Většinu času trávím vývojem her v **Unity**, psaním back-endových systémů v **.NET** a tvorbou 3D modelů v **Blenderu**.
+Nejvíce mě baví vývoj her v **Unity**, psaním back-endových systémů v **.NET** a tvorbou 3D modelů v **Blenderu**.
 
 ---
 
