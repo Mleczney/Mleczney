@@ -35,8 +35,8 @@ V Blenderu tvořím:
 ### 📊 Moje GitHub Statistiky
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=vladimirmleczko&show_icons=true&theme=dracula" alt="Mleczney Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirmleczko&layout=compact&theme=dracula" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mleczney&show_icons=true&theme=dracula" alt="Mleczney Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mleczney&layout=compact&theme=dracula" alt="Top Languages" height="150" />
 </p>
 
 ---
