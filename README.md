@@ -45,7 +45,7 @@ V Blenderu tvořím:
 
 * 🌐 **Web:** [RajkaMC.cz](https://rajkamc.cz)
 * 💬 **Discord:** Mleczney
-* 💼 **Máš nápad na hru nebo projekt?** Neváhej mě kontaktovat!
+* 💼 **Máš nápad na projekt?** Neváhej mě kontaktovat!
 
 ---
-*Vytvořeno s ☕ a Unity. Mírná závislost na kofeinu potvrzena.*
+*Bílý monster je superior btw*
