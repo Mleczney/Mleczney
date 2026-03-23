@@ -20,10 +20,9 @@ Baví mě propojovat svět čistého kódu s vizuálním uměním a interaktivit
 ### 🎮 Gamedev & 3D Tvorba
 
 V Unity se soustředím na:
-* 🕹️ Vývoj herních mechanik a systémů (C#).
-* 🌐 Implementaci síťových prvků a integraci back-endu.
-* Optimization & Performance (profilování, batching).
-* 🛠️ Tvorbu vlastních editorů a nástrojů.
+*  **Visual Excellence:** Lighting, Post-processing, VFX a celkovou estetiku hry.
+*  **Core Mechanics:** Vývoj herních mechanik a systémů pro single-player zážitky (C#).
+*  **Custom Tools:** Tvorba editorů a nástrojů pro zefektivnění workflow.
 
 V Blenderu tvořím:
 * Low-poly i high-poly modely, textury a environment art.
