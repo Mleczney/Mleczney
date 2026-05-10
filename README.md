@@ -1,8 +1,8 @@
 # Vítejte na mojem profilu
 
-### 🎮 Game Developer • Full-stack Engineer • 3D Artist
+### 🎮 Game Developer • VFX & 3D Artist
 
-Nejvíce mě baví vývoj her v **Unity**, psaním back-endových systémů v **.NET** a tvorbou 3D modelů v **Blenderu**.
+Vytvářím hry v **Unity**, custom pluginy a módy do Minecraftu a 3D modely v **Blenderu**.
 
 ---
 
