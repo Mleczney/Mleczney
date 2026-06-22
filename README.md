@@ -1,6 +1,6 @@
 # Čau, já jsem Cahel 👋
 
-Jsem vývojář her, programátor a juniorní systémový administrátor. Baví mě psát kód (od herních mechanik po pluginy) a zároveň se starat o správu firemních i herních sítí.
+Jsem vývojář her, programátor a juniorní systémový administrátor. Baví mě psát kód (od herních mechanik po pluginy) a vytvářet vizuální efekty a grafiku.
 
 ---
 
@@ -41,5 +41,6 @@ Ve volném čase vyvíjím nezávislé hry v Unity a píšu custom pluginy do Mi
 
 ### 📫 Kde mě chytneš?
 * **Discord:** Mleczney
+* **Mail:** Mleczney@seznam.cz
 
 *Bílý monster je superior btw ☕*
