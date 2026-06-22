@@ -1,4 +1,4 @@
-# Čau, já jsem Cahel 👋
+# Vítej na mojem profilu
 
 Jsem vývojář her, programátor a juniorní systémový administrátor. Baví mě psát kód (od herních mechanik po pluginy) a vytvářet vizuální efekty a grafiku.
 
