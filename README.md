@@ -1,51 +1,45 @@
-# Vítejte na mojem profilu
+# Čau, já jsem Cahel 👋
 
-### 🎮 Game Developer • 🌐 SysAdmin Enthusiast • VFX & 3D Artist
-
-Vytvářím hry v **Unity**, custom pluginy a módy do Minecraftu, spravuji vlastní serverovou infrastrukturu a tvořím 3D modely v **Blenderu**.
+Jsem vývojář her, programátor a juniorní systémový administrátor. Baví mě psát kód (od herních mechanik po pluginy) a zároveň se starat o správu firemních i herních sítí.
 
 ---
 
-### 🚀 Moje technologická výbava
+### 🚀 Technologie & Nástroje
 
-| Oblast | Technologie |
+| Oblast | Technologie a nástroje |
 | :--- | :--- |
-| **SysAdmin & Sítě** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
+| **SysAdmin & Sítě** | ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows-server&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white) ![Fortinet](https://img.shields.io/badge/Fortinet-ED1C24?style=for-the-badge&logo=fortinet&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) |
 | **Gamedev** | ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) |
-| **Backend** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **Backend & Plugins** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | **3D & Art** | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) |
 
 ---
 
-### 🌐 Správa serverů & Síťová infrastruktura (Minecraft & Web)
+### 🛠️ SysAdmin & Síťová infrastruktura
 
-Baví mě propojovat programování s reálnou infrastrukturou. V rámci správy vlastních herních serverů a webových projektů se věnuji:
-* 🐧 **Linux Server Administration:** Nastavení a správa VPS/dedikovaných serverů (Debian/Ubuntu), zabezpečení systému, SSH, práce v CLI.
-* 🌐 **Sítě & Webhosting:** Konfigurace webových serverů (Nginx/Apache), správa doménových záznamů (A, CNAME, SRV záznamy pro Minecraft), nastavení SSL certifikátů (Certbot).
-* 🛡️ **Zabezpečení & Porty:** Nastavení firewallu (UFW/iptables), port forwarding, základní ochrana proti DDoS útokům a monitoring stability.
-* 💾 **Zálohování & Databáze:** Správa a propojování pluginů s MySQL/MariaDB databázemi, automatizace zálohování herních světů a databází pomocí Bash skriptů.
+V rámci práce i vlastních herních projektů se věnuji správě síťového prostředí a uživatelské infrastruktury postavené na platformě Windows.
+* **Správa identit a uživatelů:** Práce v Active Directory, správa uživatelských účtů, skupin a přístupových práv.
+* **Zabezpečení & Firewall:** Konfigurace a management Fortinet firewallů, řízení síťového provozu a pravidla pro bezpečný chod sítě.
+* **Síťová infrastruktura:** Základní konfigurace síťových prvků (Cisco), routování, switchování a správa portů.
+* **Serverová správa:** Správa systémů běžících na Windows Serveru, konfigurace služeb a údržba herního/webového zázemí včetně správy DNS záznamů (A, CNAME, SRV pro herní servery).
 
----
-* 🌐 **Minecraft Web:** [RajkaMC.cz](https://rajkamc.cz)
 ---
 
 ### 🎮 Gamedev & 3D Tvorba
 
-V Unity se soustředím na:
-* 🎬 **Visual Excellence:** Lighting, Post-processing, VFX a celkovou estetiku hry.
-* ⚙️ **Core Mechanics:** Vývoj herních mechanik a systémů pro single-player zážitky (C#).
-* 🛠️ **Custom Tools:** Tvorba editorů a nástrojů pro zefektivnění workflow.
-
-V Blenderu tvořím:
-* Low-poly i high-poly modely, textury a environment art.
-* Architekturu a rekvizity pro hry.
+Ve volném čase vyvíjím nezávislé hry v Unity a píšu custom pluginy do Minecraftu.
+* **Unity (C#):** Zaměřuji se na single-player mechaniky, programování interakčních systémů a celkovou logiku hry.
+* **Atmosféra & VFX:** Rád si hraju s lightingem, post-processingem a částicovými efekty, abych hře dodal ten správný vizuální styl a náladu.
+* **Blender:** Tvořím vlastní 3D modely – od low-poly assetů a rekvizit až po kompletní environment art do her.
 
 ---
 
-### 📫 Kde mě najdeš?
-* 💬 **Discord:** Mleczney
-* 💼 **Máš nápad na projekt?** Neváhej mě kontaktovat!
+### 🌐 Moje projekty
+* **Minecraft Web:** [RajkaMC.cz](https://rajkamc.cz)
 
 ---
-*Bílý monster je superior btw*
+
+### 📫 Kde mě chytneš?
+* **Discord:** Mleczney
+
+*Bílý monster je superior btw ☕*
