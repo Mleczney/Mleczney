@@ -35,7 +35,7 @@ Ve volném čase vyvíjím nezávislé hry v Unity a píšu custom pluginy do Mi
 ---
 
 ### 🌐 Moje projekty
-* **Minecraft Web:** [RajkaMC.cz](https://rajkamc.cz)
+* **Můj Minecraft server:** [RajkaMC.cz](https://rajkamc.cz)
 
 ---
 
